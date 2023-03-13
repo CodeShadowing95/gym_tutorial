@@ -9,7 +9,7 @@ const Footer = () => {
       <Stack gap="40px" alignItems="center" px="40px" pt="24px">
         <img src={Logo} alt="logo" width="200px" height="40px" />
         <Typography pb="40px" mt="20px" fontSize="15px">
-          Made with ❤️ by Vasto Lorde JSM
+          Made with ❤️ by Frank Patrick
         </Typography>
       </Stack>
     </Box>
